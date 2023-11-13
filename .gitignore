@@ -1,0 +1,6 @@
+# Ignore all .txt files except for dumb one
+*.txt
+!dom1.txt
+
+# Ignore all .json files
+*.json
